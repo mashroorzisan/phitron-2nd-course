@@ -1,8 +1,3 @@
-char c;
-    cin>>c;
-    cout<<int(c)<<endl;
-    
-    char a;
-    cin>>a;
-    int ascii = a;
-    
+dl;
+    cout<<"a:"<<a<<endl;    
+    cout<<"b:"<<b<<endl;  
