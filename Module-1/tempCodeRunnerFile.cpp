@@ -1,3 +1,4 @@
-dl;
-    cout<<"a:"<<a<<endl;    
-    cout<<"b:"<<b<<endl;  
+
+    // char s[100];
+    // fgets(s,100,stdin);
+    // cout<<s<<endl;
