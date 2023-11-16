@@ -10,14 +10,15 @@ int main(){
     }
     // sort(a,a+n)
     //ascending
-    sort(&a[0],&a[0+n-1]);
+    sort(&a[0],&a[0+n]);
     for(int i = 0;i<n;i++){
-        cout<<a[i]<<" "  " ";
+        cout<<a[i]<<" ";
     }
+    cout<<endl;
     //descending
-    // sort(a)
+    sort(a, a+n, greater<int>());
     for(int i = 0;i<n;i++){
-        cout<<a[i]<<endl;
+        cout<<a[i]<<" ";
     }
 
 
