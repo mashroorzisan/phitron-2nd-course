@@ -1,0 +1,1 @@
+{"name":"Local: V_Comparison","url":"c:\\Phitron\\phitron-2nd-course\\Module-3.5-practice_day\\V_Comparison.cpp","tests":[{"id":1700124148125,"input":"5 > 4","output":"Right"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\phitron-2nd-course\\Module-3.5-practice_day\\V_Comparison.cpp","group":"local","local":true}
