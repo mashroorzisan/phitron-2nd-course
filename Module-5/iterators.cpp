@@ -12,10 +12,10 @@ int main()
     // cout << *(x.end() - 2) << endl;
 
     // string ::iterator it;
-    auto it = x.begin();
-    for (it; it < x.end(); it++)
+    auto it = x.end() - 1; // reverse print
+    for (it; it >= x.begin(); it--)
     {
-        cout << *it << endl;
+        cout << *it;
     }
     return 0;
 }
