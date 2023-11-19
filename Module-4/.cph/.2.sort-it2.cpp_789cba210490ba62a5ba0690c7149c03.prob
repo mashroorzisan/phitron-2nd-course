@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"c:\\Phitron\\phitron-2nd-course\\Module-4\\2.sort-it2.cpp","tests":[{"id":1700156175757,"input":"5\n1 4 2 3 5","output":"5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Phitron\\phitron-2nd-course\\Module-4\\2.sort-it2.cpp","group":"local","local":true}
