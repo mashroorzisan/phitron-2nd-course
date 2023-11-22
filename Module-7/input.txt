@@ -1,7 +1,6 @@
-3
-zisan khan
-12 2.3
-joba khan 
-14 4.3
-anan khan 
-143 3.3 
+5
+zisan 12 2.3
+joba 14 4.3
+anan 143 3.3
+sakib 14 5.3
+rakib 13 6.3
