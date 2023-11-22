@@ -1,6 +1,6 @@
 5
-zisan 12 2.3
-joba 14 4.3
-anan 143 3.3
-sakib 14 5.3
-rakib 13 6.3
+zisan 2 2.3
+joba 20 3.3
+anan 18 3.3
+sakib 24 3.3
+rakib 23 6.3
